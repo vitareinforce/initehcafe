@@ -1,0 +1,101 @@
+/*
+@CHARSET "ISO-8859-1";
+
+
+body {
+	background-color: #78A0FB !important;
+	color: #ffffff !important;
+}
+
+table td, table th {
+  	background: #ffffff !important;
+    color: #78A0FB !important;
+}
+
+.navbar .nav > li > a {
+  	padding: 12px 15px !important;
+}
+
+input[type="submit"] {
+	background: none;
+	color: #ffffff;
+}
+
+a:hover, a:focus {
+  	color:cyan !important;
+  	font-style: normal !important;
+  	text-decoration: none !important;
+}
+
+.btn {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+          background: none !important;
+          border: 1px solid white !important;
+          color: #ffffff !important;
+          text-shadow: none !important;
+}
+
+.navbar {
+    background-color: #78A0FB; 
+}
+
+.navbar-inner {
+	background-color: #FFFFFF;
+  	color:#78A0FB; 
+  	border: none !important;
+
+}
+
+.navbar .nav a {
+	color: #78A0FB !important;
+}
+
+.navbar .nav .active>a {
+	background-color: #78A0FB !important;
+  	color:#FFFFFF !important;
+}
+
+.pagination {
+	
+}
+
+.form-actions {
+	background-color: #78A0FB !important;
+}
+
+.help-block {
+	color: #ffffff !important;
+}
+
+.odd {
+	background-color: #78A0FB !important;
+}
+
+.container-custom {
+	margin-left: 30px;
+	margin-right: auto;
+}
+
+.formisian {
+	margin-left: 30px;
+	margin-right: auto;
+}
+
+.hero-unit {
+	height: auto;
+	min-height: 400px;
+	max-height: 100%;
+	background-color: #78A0FB !important;
+	color: #ffffff !important;
+}
+
+.span-bottom {
+	padding-top: 250px;
+}
+
+.modal-header {
+	color: #78A0FB !important;
+}
+*/
